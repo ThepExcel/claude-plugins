@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins",
-  "description": "Claude Code plugins - Auto-generated from ThepExcel/claude-skills",
+  "name": "thepexcel-claude-plugins",
+  "description": "Claude Code plugins by ThepExcel - Auto-generated from ThepExcel/claude-skills",
   "owner": {
     "name": "ThepExcel",
     "email": "thepexcel@gmail.com"
