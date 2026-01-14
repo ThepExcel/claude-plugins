@@ -1,0 +1,101 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins",
+  "description": "Claude Code plugins - Auto-generated from ThepExcel/claude-skills",
+  "owner": {
+    "name": "ThepExcel",
+    "email": "thepexcel@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "create-visualization",
+      "description": "Creates diagrams and animations for STEM education using Matplotlib and Manim",
+      "source": "./plugins/create-visualization",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "deep-research",
+      "description": "Web research with Graph-of-Thoughts, hypothesis testing, source triangulation, and claim verification",
+      "source": "./plugins/deep-research",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "design-business-model",
+      "description": "Business model design using Business Model Canvas, Lean Canvas, and Value Proposition Canvas",
+      "source": "./plugins/design-business-model",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "explain-concepts",
+      "description": "Explains difficult concepts using Feynman, Socratic, Cognitive Load, and Dual Coding methodologies",
+      "source": "./plugins/explain-concepts",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "extract-expertise",
+      "description": "Extracts expertise from domain experts and transforms it into working Claude skills",
+      "source": "./plugins/extract-expertise",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "generate-creative-ideas",
+      "description": "Creative problem-solving using SCAMPER, First Principles, Random Word, and AI-optimized techniques",
+      "source": "./plugins/generate-creative-ideas",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "manage-business-strategy",
+      "description": "Business management frameworks for strategic analysis, decision making, and growth strategy",
+      "source": "./plugins/manage-business-strategy",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "optimize-prompt",
+      "description": "Prompt optimization for Claude API, OpenAI API, Gemini API, CLAUDE.md, ChatGPT, and n8n",
+      "source": "./plugins/optimize-prompt",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "power-query-coaching",
+      "description": "Coaches users to transform messy data into clean formats using Power Query UI",
+      "source": "./plugins/power-query-coaching",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "problem-solving",
+      "description": "Systematic problem-solving with Good Teacher mode, inspired by Polya's How to Solve It",
+      "source": "./plugins/problem-solving",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "prompt-ai-image-video",
+      "description": "Creates professional AI image/video prompts with artist's eye for composition and lighting",
+      "source": "./plugins/prompt-ai-image-video",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "skill-creator-thepexcel",
+      "description": "Guide for creating effective Claude skills with specialized knowledge and workflows",
+      "source": "./plugins/skill-creator-thepexcel",
+      "category": "productivity"
+    }
+,
+    {
+      "name": "triz",
+      "description": "TRIZ systematic innovation methodology for technical contradictions and inventive problem-solving",
+      "source": "./plugins/triz",
+      "category": "productivity"
+    }
+  ]
+}
