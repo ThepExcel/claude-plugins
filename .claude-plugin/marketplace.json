@@ -51,7 +51,7 @@
 ,
     {
       "name": "generate-creative-ideas",
-      "description": "Creative problem-solving using SCAMPER, First Principles, Random Word, and AI-optimized techniques",
+      "description": "Creative problem-solving and ideation with evaluation, development pipeline, content creator mode, and AI-optimized techniques",
       "source": "./plugins/generate-creative-ideas",
       "category": "productivity"
     }
